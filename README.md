@@ -1,2 +1,2 @@
 # Unity_Scroll_Loop_LevelList
-this is the scroll_loop project.
+unity实现scroll游戏列表滑动，并且列表中元素在可见区域循环回收
